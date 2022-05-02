@@ -1,4 +1,21 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
+# GalacTic-Tac-Toe
+Come relax with a friend and play a few rounds of tic-tac-toe. This is an interactive, two-player tic-tac-toe game finessed with some fun CSS. 
+
+Web Application Link: (GalacTic-Tac-Toe)[https://galatictactoe.netlify.app/]
+
+![tictactoe](https://user-images.githubusercontent.com/101942628/166242656-a53d94fc-339b-45da-a448-3d17c4177415.PNG)
+
+## How It's Made
+
+**Tech used:** HTML, CSS, and JavaScript
+I really enjoyed looking for ways to make the CSS pop. I was able to apply my first gif background and CSS box within the tictactoe boxes. It feels like a swimming pool in outer space.
+
+## Lessons Learned
+
+We worked as a team to get this project functioning. I learned the importance of having a team, and the benefits of having different people come together and combine their knowledge into a finished product. In the future, I want to explore adding a computer player option to this project.
+
+# Project Prompt
+## 📊 Morning Challenge: Tic-Tac-Toe
 
 ### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
 
