@@ -1,7 +1,7 @@
 # GalacTic-Tac-Toe
 Come relax with a friend and play a few rounds of tic-tac-toe. This is an interactive, two-player tic-tac-toe game finessed with some fun CSS. 
 
-Web Application Link: (GalacTic-Tac-Toe)[https://galatictactoe.netlify.app/]
+Web Application Link: [GalacTic-Tac-Toe](https://galatictactoe.netlify.app/)
 
 ![tictactoe](https://user-images.githubusercontent.com/101942628/166242656-a53d94fc-339b-45da-a448-3d17c4177415.PNG)
 
